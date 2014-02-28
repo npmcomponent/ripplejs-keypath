@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [ripplejs/keypath](http://github.com/ripplejs/keypath). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/ripplejs-keypath`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # keypath [![Build Status](https://travis-ci.org/ripplejs/keypath.png?branch=master)](https://travis-ci.org/ripplejs/keypath) ![stable](http://img.shields.io/badge/stability-stable-green.svg)
 
   Get or set a property on an object using a keypath

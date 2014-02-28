@@ -1,0 +1,9 @@
+{
+  "name": "ripplejs-keypath",
+  "description": "Get or set a property on an object using a keypath",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
